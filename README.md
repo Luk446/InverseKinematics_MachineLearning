@@ -30,6 +30,8 @@ The first notebook contains the training algorithm for the MLPR, designed to tra
 6.	Execution 
 -	The notebook includes a block to initialize Ray and call the main function to start the hyperparameter tuning and training process.
 
+Overall, the notebook automates the process of training a neural network model, optimises its hyperparameters, and saves the best-performing model for solving an inverse kinematics problem.
+
 ##Script 2 - Evaluation
 
 The first script will output a saved model in the format “PR_NR_T(trial number).pickle”
