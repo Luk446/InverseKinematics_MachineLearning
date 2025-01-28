@@ -1,6 +1,8 @@
 # InverseKinematics_MachineLearning
 Level 4 thesis project 
 
+*Due to sensitivity of data the project folder cannot be public*
+
 Coding is comprised of two scripts, compiled in Visual Studio Code Jupyter Notebooks.
 
 ## Script 1 - MLPR Training
